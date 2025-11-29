@@ -1,4 +1,4 @@
-package com.revise.AllBasic;
+package com.AllBasic;
 
 public class StdData {
 	int stdId;
