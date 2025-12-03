@@ -32,6 +32,6 @@ public class MinValue {
 				System.out.println("minimum value from the array is "+min);
 			
 
-	}
+}
 
 }
