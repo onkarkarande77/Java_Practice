@@ -15,7 +15,7 @@ public class MaxValue {
 			}
 		}
 		
-		System.out.println("large no is "+max);
+		System.out.println("large no is  "+max);
 
 	}
 
