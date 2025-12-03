@@ -29,9 +29,7 @@ public class MinValue {
 						min=ar[i];
 					}
 				}
-				System.out.println("minimum value from the array is "+min);
-			
-
-	}
+				System.out.println("minimum value from the array is "+min);	
+	 }
 
 }
