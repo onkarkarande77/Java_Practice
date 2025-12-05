@@ -16,6 +16,6 @@ public class RandomOTP {
 	   System.out.println(otp);
 
 	}
-//for the pass
+
   
 }
