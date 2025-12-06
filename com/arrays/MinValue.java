@@ -37,13 +37,13 @@ public class MinValue {
 		}
 		
 		//declare local variable that hold one value to compare
-		int min=ar[0];
-		for(int i=0;i<ar.length;i++) {
-		   if(min>ar[i]){
-						min=ar[i];
+		int minn=ar[0];
+		for(int k=0;k<ar.length;k++) {
+		   if(minn>ar[k]){
+						minn=ar[k];
 					}
 				}
-				System.out.println("minimum value from the array is "+min);
+				System.out.println("minimum value from the array is "+minn);
 			
 
 }
