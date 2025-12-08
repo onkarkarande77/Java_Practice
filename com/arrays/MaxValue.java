@@ -17,18 +17,7 @@ public class MaxValue {
        }
 	System.out.println("the large no is "+max);
 	
-		int ar[]= {10,20,33,50,40};
-		
-		int max=ar[0];
-		
-		for(int i=0;i<ar.length;i++) {
 		 
-			if(max<ar[i]) {
-				max=ar[i];
-			}
-		}
-		
-		System.out.println("large no is  "+max);
 
 	}
 
