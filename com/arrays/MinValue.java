@@ -22,10 +22,10 @@ public class MinValue {
 	}
 		//taking from the console
 		Scanner sc=new Scanner(System.in);
-		System.out.println("enter the size of an array");
+		//System.out.println("enter the size of an array");
 		int n=sc.nextInt();
 	    //declare the array variable,it taking the size from the console
-		System.out.println("enter the "+n+" array element ");
+		//System.out.println("enter the "+n+" array element ");
 		int ar[]=new int[n];
 		//now taking the array element and inject into the declare variable
 		for(int i=0;i<n;i++) {
