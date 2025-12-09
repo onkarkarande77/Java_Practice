@@ -22,10 +22,10 @@ public class MinValue {
 	}
 		//taking from the console
 		Scanner sc=new Scanner(System.in);
-		System.out.println("enter the size of an array");
+		//System.out.println("enter the size of an array");
 		int n=sc.nextInt();
 	    //declare the array variable,it taking the size from the console
-		System.out.println("enter the "+n+" array element ");
+		//System.out.println("enter the "+n+" array element ");
 		int ar[]=new int[n];
 		//now taking the array element and inject into the declare variable
 		for(int i=0;i<n;i++) {
@@ -37,13 +37,13 @@ public class MinValue {
 		}
 		
 		//declare local variable that hold one value to compare
-		int min=ar[0];
-		for(int i=0;i<ar.length;i++) {
-		   if(min>ar[i]){
-						min=ar[i];
+		int minn=ar[0];
+		for(int k=0;k<ar.length;k++) {
+		   if(minn>ar[k]){
+						minn=ar[k];
 					}
 				}
-				System.out.println("minimum value from the array is "+min);
+				System.out.println("minimum value from the array is "+minn);
 			
 
 }
