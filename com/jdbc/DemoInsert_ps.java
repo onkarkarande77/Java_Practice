@@ -22,6 +22,7 @@ public class DemoInsert_ps {
 		String name=sc.nextLine();
 		String qry="insert into practice1 values(?,?)";
 		
+		//this is the USD class and below is the method that take care aboutconnection
 		 MySqlDbConn ds=new MySqlDbConn();
 		 conn=ds.getConn();
 		try {
