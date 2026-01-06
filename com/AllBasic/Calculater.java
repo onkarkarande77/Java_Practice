@@ -11,7 +11,7 @@ public class Calculater {
 		int a=sc.nextInt();
 		System.out.println("Enter the second no ");
 		int b=sc.nextInt();
-        
+        //here we perfrom opr
 		System.out.println("Enter the operator(+,-,*./)");
 		char op=sc.next().charAt(0);
 	   int c=0;
