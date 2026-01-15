@@ -14,7 +14,7 @@ public class StringRevise {
 		
 		Arrays.sort(a1);
 		Arrays.sort(a2);
-		
+		//this check the memory location of variable
 		if(Arrays.equals(a1 ,a2)) {
 			System.out.println("It is Angramm");
 		}
