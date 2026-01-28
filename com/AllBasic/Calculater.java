@@ -27,7 +27,7 @@ public class Calculater {
 	                case '/':c=a/b;
 	                         System.out.println("division is "+c);
 	                         break;
-	                default:System.out.println("enter the correct operator");
+	                default:System.out.println("enter the correct operator.");
 	                        break;
 	    
 	    
