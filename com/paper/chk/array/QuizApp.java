@@ -1,4 +1,4 @@
-package com.paper.chk.array;
+apackage com.paper.chk.array;
 
 public class QuizApp {
 
