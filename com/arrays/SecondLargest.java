@@ -8,7 +8,7 @@ public class SecondLargest {
 		
 		int large=0;
 		int second=0;
-		//second large finding
+		 //second large finding
 		for(int i=0;i<ar.length;i++) {
 			if(ar[i]>large) {
 				second=large;
