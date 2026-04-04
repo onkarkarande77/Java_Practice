@@ -12,8 +12,8 @@ public class ArraySort1 {
 		for(int j=0;j<ar.length;j++) {
 			  if(ar[i]<ar[j]) {
 				  int temp=ar[i];
-				       ar[i]=ar[j];
-				       ar[j]=temp;
+				    ar[i]=ar[j];
+				     ar[j]=temp;
 				  } 
 		  }
 		}
