@@ -7,7 +7,7 @@ public class Calculater {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
-		 System.out.println("Enter the first no ");
+		System.out.println("Enter the first no ");
 		int a=sc.nextInt();
 		System.out.println("Enter the second no ");
 		int b=sc.nextInt();
